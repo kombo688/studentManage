@@ -1,2 +1,2 @@
 # hello world!!!
-print("不废江河万古流")
+print("尔曹身与名俱灭")
